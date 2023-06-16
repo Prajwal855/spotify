@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  celebname: MyString
+  genre: MyString
+  production: MyString
+
+two:
+  celebname: MyString
+  genre: MyString
+  production: MyString
